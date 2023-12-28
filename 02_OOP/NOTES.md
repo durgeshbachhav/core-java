@@ -1,6 +1,8 @@
 # OPP => Object-Oriented Programming
 
 ## OPPS (Object-Oriented Programming System) means organizing the program structure.
+## oops design program using classes and objects.
+
 ### It is a programming paradigm based on objects, which are data structures that contain data in the form of fields, often known as attributes, and code in the form of procedures, often known as methods.
 
 # Need for OPP Approach
